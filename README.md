@@ -3,7 +3,7 @@
 
 study
 
-smoothlabelingCrossEntropy
-efficientnet
-Custom weighted Loss
-albumentations
+smoothlabelingCrossEntropy  
+efficientnet  
+Custom weighted Loss  
+albumentations  
